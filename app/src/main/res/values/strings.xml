@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project3.2</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="send">Send</string>
+    <string name="text">Text</string>
+    <string name="title">Title</string>
+    <string name="email">Email</string>
+</resources>
